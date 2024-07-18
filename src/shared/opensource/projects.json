@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "id": "R_kgDOIsawtg",
+      "name": "Speech Emotion Recognition",
+      "createdAt": "2022-12-29T20:06:30Z",
+      "url": "https://github.com/mahamadAhmed/speech-emotion-recognition",
+      "description": "Achieved high accuracy in classifying emotions using RAVDESS, CREMA, TESS, and SAVEE datasets.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        },
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOHVTDvA",
+      "name": "Drone Delivery Agent",
+      "createdAt": "2022-05-14T02:40:09Z",
+      "url": "https://github.com/mahamadAhmed/Drone_Delivery",
+      "description": "Designed and implemented a UAV system capable of delivering packages to up to five destinations within a small geographic area.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOIokHUQ",
+      "name": "Online P2P Lending Portal",
+      "createdAt": "2022-12-17T15:35:52Z",
+      "url": "https://github.com/mahamadAhmed/Predictive-Modelling-Using-Social-Profile-in-Online-P2P-Lending_Portal",
+      "description": "Analyzing Online P2P Lending Decision of Prosper Using Social Profiles and Financial Attribute",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        },
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOHDBCOg",
+      "name": "SER Flutter Application",
+      "createdAt": "2022-03-22T20:19:49Z",
+      "url": "https://github.com/mahamadAhmed/-SER-Flutter-Application",
+      "description": " Flutter app for SER: Integrated Firebase for authentication and PHP backend for login/signup, allowing usersto record audio and get emotion analysis.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Dart",
+          "iconifyClass": "logos:dart"
+        },
+        {
+          "name": "Flutter",
+          "iconifyClass": "logos:flutter"
+        },
+        {
+          "name": "Firebase",
+          "iconifyClass": "logos:firebase"
+        },
+        {
+          "name": "Flask",
+          "iconifyClass": "file-icons:flask"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOIFrtDw",
+      "name": "Student Affairs Website",
+      "createdAt": "2022-09-28T23:18:29Z",
+      "url": "https://github.com/mahamadAhmed/Student-Affairs-website",
+      "description": "Keyword extraction project",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "vscode-icons:file-type-html"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "vscode-icons:file-type-css"
+        },
+        {
+          "name": "javascript",
+          "iconifyClass": "logos:javascript"
+        },
+        {
+          "name": "Django",
+          "iconifyClass": "logos-django-icon"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOK2PtrA",
+      "name": "Facial Emotion Recognition",
+      "createdAt": "2023-12-06T00:25:01Z",
+      "url": "https://github.com/mahamadAhmed/Facial-Emotion-Recognition",
+      "description": "Convolutional Neural Network (CNN) to recognize facial expressions",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        },
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    }
+  ]
+}
