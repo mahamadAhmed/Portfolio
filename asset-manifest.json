@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.af119441.chunk.css",
+    "main.js": "/static/js/main.d261f4d5.chunk.js",
+    "main.js.map": "/static/js/main.d261f4d5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2781e2dc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2781e2dc.js.map",
+    "static/js/2.c2679359.chunk.js": "/static/js/2.c2679359.chunk.js",
+    "static/js/2.c2679359.chunk.js.map": "/static/js/2.c2679359.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.258b135f4f80ebf48fe30f33f74b2930.js": "/precache-manifest.258b135f4f80ebf48fe30f33f74b2930.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.af119441.chunk.css.map": "/static/css/main.af119441.chunk.css.map",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/Artificialintelligence.svg": "/static/media/Artificialintelligence.988b0ff5.svg",
+    "static/media/Cairo University.png": "/static/media/Cairo University.26366894.png",
+    "static/media/CloudInfraImg.svg": "/static/media/CloudInfraImg.4444666f.svg",
+    "static/media/FeelingProud.svg": "/static/media/FeelingProud.d54dcc34.svg",
+    "static/media/FullStackImg.svg": "/static/media/FullStackImg.46a83c84.svg",
+    "static/media/TIC_logo.svg": "/static/media/TIC_logo.fa0287d3.svg",
+    "static/media/address_image copy.svg": "/static/media/address_image copy.5fcb4ab2.svg",
+    "static/media/address_image.svg": "/static/media/address_image.b86f84b1.svg",
+    "static/media/experience.svg": "/static/media/experience.85d6957f.svg",
+    "static/media/all.css": "/static/media/fa-solid-900.8e4a6dcc.eot",
+    "static/media/favicon.png": "/static/media/favicon.fb59e756.png",
+    "static/media/github_logo.png": "/static/media/github_logo.e64de169.png",
+    "static/media/googleAssistant.jpg": "/static/media/googleAssistant.0c8a4c11.jpg",
+    "static/media/googleAssistant.svg": "/static/media/googleAssistant.c24ba791.svg",
+    "static/media/manOnTable.svg": "/static/media/manOnTable.3a13d967.svg",
+    "static/media/my Logo2.svg": "/static/media/my Logo2.b2a69c8f.svg",
+    "static/media/my Logo3.svg": "/static/media/my Logo3.5adcbcde.svg",
+    "static/media/my-Logo.svg": "/static/media/my-Logo.fc9c1a00.svg",
+    "static/media/my-Logo2.svg": "/static/media/my-Logo2.aab6ed60.svg",
+    "static/media/projects_image.svg": "/static/media/projects_image.f7964c6b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2781e2dc.js",
+    "static/js/2.c2679359.chunk.js",
+    "static/css/main.af119441.chunk.css",
+    "static/js/main.d261f4d5.chunk.js"
+  ]
+}
