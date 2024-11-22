@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.af119441.chunk.css",
-    "main.js": "/static/js/main.d261f4d5.chunk.js",
-    "main.js.map": "/static/js/main.d261f4d5.chunk.js.map",
+    "main.js": "/static/js/main.f8af2b9c.chunk.js",
+    "main.js.map": "/static/js/main.f8af2b9c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2781e2dc.js",
     "runtime-main.js.map": "/static/js/runtime-main.2781e2dc.js.map",
     "static/js/2.c2679359.chunk.js": "/static/js/2.c2679359.chunk.js",
     "static/js/2.c2679359.chunk.js.map": "/static/js/2.c2679359.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e98917bcfa547865d47f11de7284c720.js": "/precache-manifest.e98917bcfa547865d47f11de7284c720.js",
+    "precache-manifest.2dbfa0c1510c042031fb6dfde2ffd3a2.js": "/precache-manifest.2dbfa0c1510c042031fb6dfde2ffd3a2.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.af119441.chunk.css.map": "/static/css/main.af119441.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/Artificialintelligence.svg": "/static/media/Artificialintelligence.988b0ff5.svg",
-    "static/media/Cairo University.png": "/static/media/Cairo University.26366894.png",
+    "static/media/Cairo University.png": "/static/media/Cairo University.cc008aaf.png",
     "static/media/CloudInfraImg.svg": "/static/media/CloudInfraImg.4444666f.svg",
     "static/media/FeelingProud.svg": "/static/media/FeelingProud.d54dcc34.svg",
     "static/media/FullStackImg.svg": "/static/media/FullStackImg.46a83c84.svg",
@@ -37,6 +37,6 @@
     "static/js/runtime-main.2781e2dc.js",
     "static/js/2.c2679359.chunk.js",
     "static/css/main.af119441.chunk.css",
-    "static/js/main.d261f4d5.chunk.js"
+    "static/js/main.f8af2b9c.chunk.js"
   ]
 }

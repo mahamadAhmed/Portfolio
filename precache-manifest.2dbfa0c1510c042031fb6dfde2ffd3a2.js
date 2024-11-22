@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "adbe3cfc207a715a6f92e4ce867d402f",
+    "revision": "831763a6146f16c7654faadea5f77e8a",
     "url": "/index.html"
   },
   {
-    "revision": "7961355116cd51eb7d83",
+    "revision": "b7fb1d96d060fb16c0cf",
     "url": "/static/css/main.af119441.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.c2679359.chunk.js"
   },
   {
-    "revision": "7961355116cd51eb7d83",
-    "url": "/static/js/main.d261f4d5.chunk.js"
+    "revision": "b7fb1d96d060fb16c0cf",
+    "url": "/static/js/main.f8af2b9c.chunk.js"
   },
   {
     "revision": "f4163cc1361175add5e6",
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Artificialintelligence.988b0ff5.svg"
   },
   {
-    "revision": "263668943f1b6c3154989c8e0c3de1c1",
-    "url": "/static/media/Cairo University.26366894.png"
+    "revision": "cc008aaf5f7f54877adc4aab0998929c",
+    "url": "/static/media/Cairo University.cc008aaf.png"
   },
   {
     "revision": "4444666fa5e5848631a91b50e8c19f47",
