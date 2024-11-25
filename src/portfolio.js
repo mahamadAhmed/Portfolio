@@ -454,7 +454,7 @@ const experience = {
           company_url: "",
           logo_path: "Al-Mashie Legal Services.png",
           duration: "Oct 2024 - Jan 2025",
-          location: "Online",
+          location: "Saudi Arabia",
           description:
             "Software Engineer in a legal services company, implementing web solutions and technologies to enhance operations, streamline workflows, and improve service delivery.",
           color: "#0C7DFF",
