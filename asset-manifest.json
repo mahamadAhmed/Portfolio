@@ -1,16 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.af119441.chunk.css",
-    "main.js": "/static/js/main.f8af2b9c.chunk.js",
-    "main.js.map": "/static/js/main.f8af2b9c.chunk.js.map",
+    "main.js": "/static/js/main.51df3d9a.chunk.js",
+    "main.js.map": "/static/js/main.51df3d9a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2781e2dc.js",
     "runtime-main.js.map": "/static/js/runtime-main.2781e2dc.js.map",
-    "static/js/2.c2679359.chunk.js": "/static/js/2.c2679359.chunk.js",
-    "static/js/2.c2679359.chunk.js.map": "/static/js/2.c2679359.chunk.js.map",
+    "static/js/2.7ad9d6fe.chunk.js": "/static/js/2.7ad9d6fe.chunk.js",
+    "static/js/2.7ad9d6fe.chunk.js.map": "/static/js/2.7ad9d6fe.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.2dbfa0c1510c042031fb6dfde2ffd3a2.js": "/precache-manifest.2dbfa0c1510c042031fb6dfde2ffd3a2.js",
+    "precache-manifest.f375de43b5678f92b2f6f7a19ec3a2e0.js": "/precache-manifest.f375de43b5678f92b2f6f7a19ec3a2e0.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.af119441.chunk.css.map": "/static/css/main.af119441.chunk.css.map",
+    "static/media/Al-Mashie Legal Services.png": "/static/media/Al-Mashie Legal Services.6cab86f4.png",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/Artificialintelligence.svg": "/static/media/Artificialintelligence.988b0ff5.svg",
     "static/media/Cairo University.png": "/static/media/Cairo University.cc008aaf.png",
@@ -35,8 +36,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.2781e2dc.js",
-    "static/js/2.c2679359.chunk.js",
+    "static/js/2.7ad9d6fe.chunk.js",
     "static/css/main.af119441.chunk.css",
-    "static/js/main.f8af2b9c.chunk.js"
+    "static/js/main.51df3d9a.chunk.js"
   ]
 }
