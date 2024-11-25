@@ -409,7 +409,7 @@ const experience = {
   title: "Experience",
   subtitle: "WORK EXPERIENCE",
   description:
-    "I've worked with dynamic startups and established companies like Technocolabs Softwares. My expertise includes developing and optimizing machine learning algorithms, instructing online C++ and OOP courses, and creating RESTful APIs",
+    "I have worked with a variety of companies, both remotely and on-site, where each experience has helped me grow professionally and personally. Collaborating with diverse teams has enhanced my skills, strengthened my adaptability, and fueled my passion for contributing to impactful projects",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -447,6 +447,17 @@ const experience = {
           description:
             "Developed RESTful APIs with Flask, enhancing system interoperability and enabling seamless data exchange, applying PyUnit for unit testing to ensure code quality and reliability and Worked closely with frontend developers for API integration, ensuring a consistent and functional user experience.",
           color: "#2C3A50",
+        },
+        {
+          title: "Software Engineer",
+          company: "Al-Mashie Legal Services",
+          company_url: "",
+          logo_path: "Al-Mashie Legal Services.png",
+          duration: "Oct 2024 - Jan 2025",
+          location: "Online",
+          description:
+            "Software Engineer in a legal services company, implementing web solutions and technologies to enhance operations, streamline workflows, and improve service delivery.",
+          color: "#0C7DFF",
         },
       ],
     },
